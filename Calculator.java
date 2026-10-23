@@ -1,5 +1,3 @@
-import p
-
 import java.util.Scanner;
 
 public class Calculator {
